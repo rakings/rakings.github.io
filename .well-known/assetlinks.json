@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rakings.vgc",
+    "sha256_cert_fingerprints": ["A8:60:79:55:1D:EA:20:FA:C2:A6:99:9E:75:2C:D2:3D:21:00:02:4A:C1:85:DA:33:8D:9B:EB:4F:19:3D:AA:3D"]
+  }
+}]
